@@ -182,26 +182,7 @@
 				<!-- Sidebar Area -->
 				<div id="sidebar" class="4u">
 	
-					<!-- Sidebar Section 2 -->
-					<section id="box">
-						<h2>聯絡我們</h2>
-						<ul class="style2">
-							<li class="first">
-								<p><a href="javascript:;"><img src="images/qrcode_01.png" alt="" width="80">林志銘<br>0911006054<br>Line bosslin2004</a></p>
-							</li>
-							<li>
-								<p><img src="images/qrcode_02.png" alt="" width="80">陳蕙郁<br>0963582968<br><a href="http://line.naver.jp/ti/p/jtx_SdRfKk" target="new" style="color:#8fc31f;">點此加入 Line phoebe4175</a></p>
-							</li>
-							<li>
-								<p><a href="javascript:;"><img src="images/qrcode_01.png" alt="" width="80">XXX<br>0911006054<br>Line bosslin2004</a></p>
-							</li>
-							<li>
-								<p><a href="javascript:;"><img src="images/qrcode_01.png" alt="" width="80">XXX<br>0911006054<br>Line bosslin2004</a></p>
-							</li>
-						</ul>
-						<!--<p><a href="javascript:;" class="button"><span>Read More</span></a></p>-->
-					</section>
-
+					<?php include('include_contact.php');?>
 
 				</div>
 				
