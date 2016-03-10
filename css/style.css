@@ -303,7 +303,6 @@ a:hover
 	#content a img
 	{
 		display: block;
-		width: 100%;
 		margin-bottom: 1.50em;
 		border-radius: 5px;
 	}
@@ -420,4 +419,16 @@ a:hover
 	#copyright a:hover
 	{
 		text-decoration: none;
+}
+
+.about_info {font-size: 1.50em; line-height: 2em;}
+.photo_black {
+	width:117px; 
+	height:117px; 
+	overflow:hidden; 
+	margin:0 5px 5px 0; 
+	float: left;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
 }
